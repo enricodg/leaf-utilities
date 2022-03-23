@@ -1,7 +1,7 @@
 package leafWebClient
 
 import (
-	"github.com/paulusrobin/leaf-utilities/webClient/webClient/circuitBreaker"
+	leafCircuitBreaker "github.com/enricodg/leaf-utilities/webClient/webClient/circuitBreaker"
 	"time"
 )
 
